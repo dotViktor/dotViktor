@@ -1,7 +1,6 @@
 # Hello! I'm Viktor Stoimenov
 
-
-<img src="https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?q=80&w=1774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 100%; height: 150px; object-fit: cover;">
+<img src="https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 100%; height: 200px; object-fit: cover;">
 
 ## About Me  
 >Hello! I’m Viktor Stoimenov, a versatile web developer with a strong background in front-end development and a growing interest in back-end systems. I thrive in team settings and am always eager to learn new skills and technologies to keep improving myself!
@@ -52,5 +51,5 @@ A simple portfolio website I made using React and Spline, mainly to be a checkpo
 viktorstoimenov@vivaldi.net
 
 ---
-Banner Photo by <a href="https://unsplash.com/@maritaextrabold?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marita Kavelashvili</a> on <a href="https://unsplash.com/photos/aerial-photo-of-green-trees-ugnrXk1129g?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Banner Photo by <a href="https://unsplash.com/@sebastian_unrau?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sebastian Unrau</a> on <a href="https://unsplash.com/photos/trees-on-forest-with-sun-rays-sp-p7uuT0tw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
